@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Punkindapie
-- 👀 I’m interested in Computer enginering and programming mainly enginering though I also like anime,basketball and decently written tv shows
-- 🌱 I’m currently learning anything really trying to learn ruby at the momment and also get decent at python
-- 💞️ I’m looking to collaborate on I'm not sure but we will see what the futuer holds
-- 📫 How to reach me Code and other computer science tools
+- 👀 I’m interested in Computer enginering and programming mainly enginering though I also like anime,basketball and creating content for youtube
+- 🌱 I’m currently learning anything really learning ruby at the momment and also getting decent at python
+- 💞️ I’m looking to collaborate on nothing we will see what the futuer holds
+- 📫 How to reach me on Github or Twitter
